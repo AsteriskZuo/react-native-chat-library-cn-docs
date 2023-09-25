@@ -136,7 +136,7 @@ export default function ChatScreen(): JSX.Element {
 }
 ```
 
-![img](./res/contact_list.png)
-![img](./res/conversation_list_slide_menu.png)
+![img](/res/contact_list.png)
+![img](/res/conversation_list_slide_menu.png)
 
 https://user-images.githubusercontent.com/11733363/241342423-0a3ac24c-9fae-4961-8395-89a3c2e6ef5e.mov

@@ -219,10 +219,10 @@ export default function ChatScreen(): JSX.Element {
 }
 ```
 
-![img](./res/chat_detail_emoji_list.png)
-![img](./res/chat_detail_message_list.png)
-![img](./res/chat_detail_send_file.png)
-![img](./res/chat_detail_send_text.png)
-![img](./res/chat_detail_send_voice.png)
+![img](/res/chat_detail_emoji_list.png)
+![img](/res/chat_detail_message_list.png)
+![img](/res/chat_detail_send_file.png)
+![img](/res/chat_detail_send_text.png)
+![img](/res/chat_detail_send_voice.png)
 
 https://user-images.githubusercontent.com/11733363/241342789-e5fed2c3-ede4-47f4-86c3-c185800158f0.mov
